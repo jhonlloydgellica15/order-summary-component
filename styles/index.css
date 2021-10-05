@@ -139,4 +139,10 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
   }
+  .btn-container a:nth-child(1) {
+    margin-bottom: 1rem;
+  }
+  .btn-container {
+    padding: 2rem 0;
+  }
 }
